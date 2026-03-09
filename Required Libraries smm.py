@@ -1,0 +1,1 @@
+pip install pandas numpy nltk scikit-learn textblob flask
